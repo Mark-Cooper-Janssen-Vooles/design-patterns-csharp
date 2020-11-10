@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mark.janssen-vooles\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mark.janssen-vooles\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DesignPatterns1.1565812917.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mark.janssen-vooles\code\tutorials\DesignPatternsC#\Work\DesignPatterns1" t="IncludeFlat">
+      <e p="DesignPatterns1" t="IncludeRecursive">
+        <e p="BehaviouralPatterns" t="Include">
+          <e p="ChainOfResponsibility" t="Include">
+            <e p="MethodChain.cs" t="Include" />
+          </e>
+          <e p="Command" t="Include">
+            <e p="CommandPattern.cs" t="Include" />
+          </e>
+          <e p="Iterator" t="Include" />
+          <e p="Mediator" t="Include">
+            <e p="Chatroom.cs" t="Include" />
+          </e>
+          <e p="Memento" t="Include">
+            <e p="MementoExample.cs" t="Include" />
+          </e>
+          <e p="Null Object" t="Include">
+            <e p="NullObjectExample.cs" t="Include" />
+          </e>
+          <e p="Observer" t="Include">
+            <e p="ObserverExample.cs" t="Include" />
+          </e>
+          <e p="State" t="Include">
+            <e p="ClassicExample.cs" t="Include" />
+          </e>
+          <e p="Strategy" t="Include">
+            <e p="DynamicStrategy.cs" t="Include" />
+          </e>
+          <e p="TemplateMethod" t="Include">
+            <e p="TemplateMethodExample.cs" t="Include" />
+          </e>
+          <e p="Visitor" t="Include">
+            <e p="ClassicVisitor.cs" t="Include" />
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreationalPatterns" t="Include">
+          <e p="Builder" t="Include">
+            <e p="Builder.cs" t="Include" />
+            <e p="CodingExercise1.cs" t="Include" />
+            <e p="FacetedBuilder.cs" t="Include" />
+            <e p="FluentBuilderInheritance.cs" t="Include" />
+            <e p="FunctionalBuilder.cs" t="Include" />
+          </e>
+          <e p="Factories" t="Include">
+            <e p="AbstractFactory.cs" t="Include" />
+            <e p="AsynchronousFactoryMethod.cs" t="Include" />
+            <e p="FactoryClass.cs" t="Include" />
+            <e p="FactoryExercise.cs" t="Include" />
+            <e p="InnerFactory.cs" t="Include" />
+            <e p="WithFactory.cs" t="Include" />
+            <e p="WithoutFactory.cs" t="Include" />
+          </e>
+          <e p="Prototype" t="Include">
+            <e p="ICloneable.cs" t="Include" />
+          </e>
+          <e p="Singleton" t="Include">
+            <e p="AmbientContext.cs" t="Include" />
+            <e p="Capitals.txt" t="Include" />
+            <e p="Exercise.cs" t="Include" />
+            <e p="Monostate.cs" t="Include" />
+            <e p="PerThreadSingleton.cs" t="Include" />
+            <e p="SingletonImplementation.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DesignPatterns1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DesignPatterns1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ProgramSOLID.cs" t="Include" />
+        <e p="SOLID" t="Include">
+          <e p="DependencyInversion.cs" t="Include" />
+          <e p="InterfaceSegregation.cs" t="Include" />
+          <e p="LiskovSubstitution.cs" t="Include" />
+          <e p="OpenClosedPrincipal.cs" t="Include" />
+          <e p="SingleResponsibility.cs" t="Include" />
+        </e>
+        <e p="StructuralPatterns" t="Include">
+          <e p="Adapter" t="Include">
+            <e p="AdapterExercise.cs" t="Include" />
+            <e p="VectorRaster.cs" t="Include" />
+          </e>
+          <e p="Bridge" t="Include">
+            <e p="BridgeExample.cs" t="Include" />
+            <e p="BridgeExercise.cs" t="Include" />
+          </e>
+          <e p="Composite" t="Include">
+            <e p="CompositeExercise.cs" t="Include" />
+            <e p="GeometricShapes.cs" t="Include" />
+          </e>
+          <e p="Decorator" t="Include">
+            <e p="CustomStringBuilder.cs" t="Include" />
+            <e p="DecoratorExercise.cs" t="Include" />
+            <e p="DefaultInterfaceMembers.cs" t="Include" />
+            <e p="MultipleInheritanceWithInterfaces.cs" t="Include" />
+          </e>
+          <e p="Facade" t="Include">
+            <e p="FacadeExample.cs" t="Include" />
+          </e>
+          <e p="Flyweight" t="Include">
+            <e p="RepeatingUsernames.cs" t="Include" />
+          </e>
+          <e p="Proxy" t="Include">
+            <e p="ProtectionProxy.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="DesignPatterns1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

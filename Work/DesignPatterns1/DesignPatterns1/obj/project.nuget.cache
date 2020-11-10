@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OjasUwz7kXTnTZvsXFCm32u8wyaq0h7qOTAWcaTn2uByw6Cr05EdqiK3H9FPTXs0kh7pDAunPCLNjDKIdzslg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mark.janssen-vooles\\code\\tutorials\\DesignPatternsC#\\Work\\DesignPatterns1\\DesignPatterns1\\DesignPatterns1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mark.janssen-vooles\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\mark.janssen-vooles\\.nuget\\packages\\jetbrains.annotations\\2020.2.0-eap\\jetbrains.annotations.2020.2.0-eap.nupkg.sha512",
+    "C:\\Users\\mark.janssen-vooles\\.nuget\\packages\\jetbrains.dotmemoryunit\\3.1.20200127.214830\\jetbrains.dotmemoryunit.3.1.20200127.214830.nupkg.sha512",
+    "C:\\Users\\mark.janssen-vooles\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mark.janssen-vooles\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\mark.janssen-vooles\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\mark.janssen-vooles\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\mark.janssen-vooles\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

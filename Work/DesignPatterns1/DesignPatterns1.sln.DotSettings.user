@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0b92412f_002Df19e_002D4bd2_002Dbe2f_002D80d722f0f87f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestUser" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20961E79-33BB-4C5C-8467-232091BA2798::.NETCoreApp,Version=v3.1::DesignPatterns1.StructuralPatterns.Flyweight.Program.TestUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=539bb07c_002D746c_002D4751_002D9c3b_002D5c76e7204abe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestUser #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20961E79-33BB-4C5C-8467-232091BA2798::.NETCoreApp,Version=v3.1::DesignPatterns1.StructuralPatterns.Flyweight.Program.TestUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20961E79-33BB-4C5C-8467-232091BA2798::.NETCoreApp,Version=v3.1::DesignPatterns1.StructuralPatterns.Flyweight.Program.UserWithFlyWeight&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69c5de66_002D4707_002D4d01_002D9a19_002Db73f5d6089e3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SingletonTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20961E79-33BB-4C5C-8467-232091BA2798::.NETCoreApp,Version=v3.1::DesignPatterns1.CreationalPatterns.Singleton.SingletonTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=759587c5_002Ddfb0_002D45c3_002D9810_002Df527dba82528/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestUser #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20961E79-33BB-4C5C-8467-232091BA2798::.NETCoreApp,Version=v3.1::DesignPatterns1.StructuralPatterns.Flyweight.Program.TestUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=de1fb8d8_002D7863_002D46cc_002D9df9_002D7e53915be673/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UserWithFlyWeight" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::20961E79-33BB-4C5C-8467-232091BA2798::.NETCoreApp,Version=v3.1::DesignPatterns1.StructuralPatterns.Flyweight.Program.UserWithFlyWeight&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

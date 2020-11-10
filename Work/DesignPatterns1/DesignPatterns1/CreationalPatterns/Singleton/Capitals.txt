@@ -1,0 +1,20 @@
+Tokyo
+3320
+New York
+1780
+Sao Paulo 
+1770
+Seoul
+1750
+Mexico City
+1740
+Osaka
+16425
+Manila 
+1475
+Mumbai
+1435
+Delhi
+1430
+Jakarta
+1425
